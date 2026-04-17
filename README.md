@@ -1,3 +1,48 @@
+# Grace Medium
+
+> **Layer:** Prototype / Foundation  
+> **Status:** Experimental Branch  
+> **Audience:** Researchers, prototype builders, simulation designers, consciousness-tech explorers  
+> **Related:** `truthmirror`, `technomysticism`, `nousos`, `vibesculpting-tool`
+
+## What this repo is
+Grace Medium is a hybrid theory-and-prototype repo exploring grace, resonance, emergence, and subtle-system dynamics through code, models, and conceptual writing. It appears to function as both a philosophical inquiry and an experimental sandbox for testing how these ideas might be represented computationally.
+
+This repo sits between metaphysical theory and executable experimentation.
+
+## Why it exists
+Some ideas cannot be understood fully through abstract writing alone. Grace Medium exists to explore whether more subtle, relational, or consciousness-oriented dynamics can be modeled, simulated, or expressed through code without collapsing them into purely reductionist frameworks.
+
+It gives speculative theory a place to become experiment.
+
+## What Grace Medium is not
+Grace Medium is **not**:
+- the core architectural layer, which belongs to `nousos`
+- the main public-facing explanation of the ecosystem
+- a finished product or fully stabilized framework
+
+Grace Medium is the **experimental lab for grace-oriented concepts and prototypes**.
+
+## How it fits the ecosystem
+This repo connects most directly to:
+- `truthmirror`, which also explores reflective and qualitative system behavior
+- `technomysticism`, which provides philosophical grounding
+- `nousos`, which may eventually absorb architectural insights from experiments here
+- `vibesculpting-tool`, which shares a more experiential and expressive prototype orientation
+
+## Start here
+- `README.md`
+- `Grace_Field_Theory_v1.0.md`
+- `grace_medium.py`
+- `grace_engine.py`
+- `index.html`
+
+## Current maturity
+- experimental theory
+- code sandbox
+- early prototype exploration
+
+
 # GraceMedium  
 **The Quiet Substrate – The Listening Before the Word**
 
